@@ -13,22 +13,21 @@ function jsonGen(filename: string = "xx.json", data: any, dest: string = "./data
 }
 
 ;(async () => {
-  
   jsonGen("project_pkg", {
     author,
     homepage,
     description,
-    repository, 
+    repository,
     config: project_pkg["config"] || undefined
   })
 
   jsonGen("gh_author", {
     person: await ghProfileFetch("andriilive"),
-    org: await ghProfileFetch("digitalandyeu"),
+    org: await ghProfileFetch("digitalandyeu")
   })
 
   jsonGen("gh_doffcasescz", {
     person: await ghProfileFetch("devdoffcasescz"),
-    org: await ghProfileFetch("doffcasescz"),
+    org: await ghProfileFetch("doffcasescz")
   })
 })()

@@ -23,7 +23,7 @@
   "scripts": {
     "dev": "bun run --watch ./src/main.ts",
     "gen": "bun run ./src/main.ts",
-    "prettier-fix": "prettier --ignore-unknown --write .",
+    "prettier-fix": "prettier --ignore-path .prettierignore --ignore-unknown --write .",
     "zip-bkp": "test -d .tmp || mkdir .tmp && zip -r .tmp/doffcasescz-static.zip . -x 'node_modules/*'"
   },
   "git": {

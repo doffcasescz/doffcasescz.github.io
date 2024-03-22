@@ -1,4 +1,5 @@
 # https://jekyllrb.com/docs/configuration/default
+# .files are ignored by default
 
 exclude: [
   "Gemfile",
@@ -8,9 +9,10 @@ exclude: [
   "vendor/cache/",
   "vendor/gems/",
   "vendor/ruby/",
-  "src/",
+  "src",
   "./*.json",
-  "./*.js"
+  "*.js",
+  "*.ts"
 ]
 
 data_dir: data
