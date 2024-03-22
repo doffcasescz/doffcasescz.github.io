@@ -9,7 +9,6 @@
     "email": "job@digitalandy.eu"
   },
   "main": "src/main.ts",
-  "type": "module",
   "repository": {
     "url": "https://github.com/doffcasescz/doffcasescz.github.io.git",
     "type": "git"
@@ -24,11 +23,13 @@
   "scripts": {
     "dev": "bun run --watch ./src/main.ts",
     "gen": "bun run ./src/main.ts",
-    "prettier-fix": "npm run prettier",
-    "zip-bkp": "test -d .tmp || mkdir .tmp && zip -r .tmp/doffcasescz-static.zip . -x 'node_modules/*'",
-    "precommit": "bun run ./src/main.ts"
+    "prettier-fix": "prettier --ignore-path .prettierignore --ignore-unknown --write .",
+    "zip-bkp": "test -d .tmp || mkdir .tmp && zip -r .tmp/doffcasescz-static.zip . -x 'node_modules/*'"
   },
   "git": {
-    "pre-commit": "precommit"
+    "pre-commit": [
+      "gen",
+      "prettier-fix"
+    ]
   }
 }
