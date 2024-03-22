@@ -1,0 +1,13 @@
+{
+  "author": {
+    "name": "Andrii Ivashchuk (@digitalandyeu)",
+    "url": "https://github.com/andriilive",
+    "email": "job@digitalandy.eu"
+  },
+  "homepage": "https://static.doffcases.cz",
+  "description": "🗂️ Static assets Doff_Cases",
+  "repository": {
+    "url": "https://github.com/doffcasescz/doffcasescz.github.io.git",
+    "type": "git"
+  }
+}
