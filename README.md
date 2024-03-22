@@ -1,5 +1,7 @@
 # doffcasescz.github.io
 
+[![pages-build-deployment](https://github.com/doffcasescz/doffcasescz.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/doffcasescz/doffcasescz.github.io/actions/workflows/pages/pages-build-deployment)
+
 🗂️ Static Doff_Cases brand assets
 
 ## Files tree
