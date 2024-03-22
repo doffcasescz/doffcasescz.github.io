@@ -1,4 +1,4 @@
 # https://jekyllrb.com/docs/configuration/default
-## dotfiles are ignored by default
+# .files are ignored by default
 
 exclude: ["Gemfile", "Gemfile.lock", "node_modules", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/", "package*.json"]
