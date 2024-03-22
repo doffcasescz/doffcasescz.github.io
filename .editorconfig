@@ -1,0 +1,12 @@
+# EditorConfig is awesome: https://EditorConfig.org
+
+# top-most EditorConfig file
+root = true
+
+# Print width
+[*]
+insert_final_newline = true
+
+# Print width for react
+[*.{tsx,jsx}]
+max_line_length = 220
