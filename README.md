@@ -13,21 +13,18 @@ Repository files tree cmd: `tree -L 1000`
 ├── CNAME
 ├── LICENSE
 ├── README.md
-├── humans.txt
+├── data
+│   ├── gh_author.json
+│   ├── gh_doffcasescz.json
+│   └── project_pkg.json
 ├── img
-│   ├── org_avatar.jpeg
+│   ├── org_avatar.jpg
 │   ├── placeholders
-│   │   ├── og_app_doffcaces_cz
-│   │   │   ├── og_app_doffcaces_cz.png
-│   │   │   └── og_app_doffcaces_cz__low.jpg
-│   │   ├── random_pattern_bg
-│   │   │   ├── random_pattern_bg.png
-│   │   │   └── random_pattern_bg__low.jpg
-│   │   └── random_pattern_bg_dim
-│   │       ├── random_pattern_bg_dim.png
-│   │       └── random_pattern_bg_dim__low.jpg
+│   │   ├── og_app_doffcaces_cz.png
+│   │   ├── random_pattern_bg.png
+│   │   └── random_pattern_bg_dim.png
 │   └── user_avatar.jpg
-└── package.json
+└── humans.txt
 ```
 
 Feedback: [dev.doffcasescz@gmail.com](dev.doffcasescz@gmail.com)
