@@ -8,5 +8,5 @@ root = true
 insert_final_newline = true
 
 # Print width for react
-[*.{tsx,jsx}]
+[*.{tsx,jsx,ts}]
 max_line_length = 220
