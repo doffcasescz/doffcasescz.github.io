@@ -1,11 +1,6 @@
 {
-  "darkMode": [
-    "class"
-  ],
-  "content": [
-    "./app/**/*.tsx",
-    "./components/**/*.{tsx,ts}"
-  ],
+  "darkMode": ["class"],
+  "content": ["./app/**/*.tsx", "./components/**/*.{tsx,ts}"],
   "theme": {
     "fontFamily": {
       "sans": [
