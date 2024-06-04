@@ -1,0 +1,361 @@
+[
+  {
+    "device": "iphone_11",
+    "camera": "assets/device/iphone_11/black/Camera.png",
+    "black": {
+      "bg": "assets/device/iphone_11/black/BG.svg",
+      "frame": "assets/device/iphone_11/black/Frame.png"
+    },
+    "beige": {
+      "bg": "assets/device/iphone_11/beige/BG.svg",
+      "frame": "assets/device/iphone_11/beige/Frame.png"
+    }
+  },
+  {
+    "device": "iphone_11pro",
+    "camera": "assets/device/iphone_11pro/black/Camera.png",
+    "black": {
+      "bg": "assets/device/iphone_11pro/black/BG.svg",
+      "frame": "assets/device/iphone_11pro/black/Frame.png"
+    },
+    "beige": {
+      "bg": "assets/device/iphone_11pro/beige/BG.svg",
+      "frame": "assets/device/iphone_11pro/beige/Frame.png"
+    }
+  },
+  {
+    "device": "iphone_11pro_max",
+    "camera": "assets/device/iphone_11pro_max/black/Camera.png",
+    "black": {
+      "bg": "assets/device/iphone_11pro_max/black/BG.svg",
+      "frame": "assets/device/iphone_11pro_max/black/Frame.png"
+    },
+    "beige": {
+      "bg": "assets/device/iphone_11pro_max/beige/BG.svg",
+      "frame": "assets/device/iphone_11pro_max/beige/Frame.png"
+    }
+  },
+  {
+    "device": "iphone_12",
+    "camera": "assets/device/iphone_12/black/Camera.png",
+    "black": {
+      "bg": "assets/device/iphone_12/black/BG.svg",
+      "frame": "assets/device/iphone_12/black/Frame.png"
+    },
+    "beige": {
+      "bg": "assets/device/iphone_12/beige/BG.svg",
+      "frame": "assets/device/iphone_12/beige/Frame.png"
+    }
+  },
+  {
+    "device": "iphone_12mini",
+    "camera": "assets/device/iphone_12mini/black/Camera.png",
+    "black": {
+      "bg": "assets/device/iphone_12mini/black/BG.svg",
+      "frame": "assets/device/iphone_12mini/black/Frame.png"
+    },
+    "beige": {
+      "bg": "assets/device/iphone_12mini/beige/BG.svg",
+      "frame": "assets/device/iphone_12mini/beige/Frame.png"
+    }
+  },
+  {
+    "device": "iphone_12pro",
+    "camera": "assets/device/iphone_12pro/black/Camera.png",
+    "black": {
+      "bg": "assets/device/iphone_12pro/black/BG.svg",
+      "frame": "assets/device/iphone_12pro/black/Frame.png"
+    },
+    "beige": {
+      "bg": "assets/device/iphone_12pro/beige/BG.svg",
+      "frame": "assets/device/iphone_12pro/beige/Frame.png"
+    }
+  },
+  {
+    "device": "iphone_12pro_max",
+    "camera": "assets/device/iphone_12pro_max/black/Camera.png",
+    "black": {
+      "bg": "assets/device/iphone_12pro_max/black/BG.svg",
+      "frame": "assets/device/iphone_12pro_max/black/Frame.png"
+    },
+    "beige": {
+      "bg": "assets/device/iphone_12pro_max/beige/BG.svg",
+      "frame": "assets/device/iphone_12pro_max/beige/Frame.png"
+    }
+  },
+  {
+    "device": "iphone_13",
+    "camera": "assets/device/iphone_13/black/Camera.png",
+    "black": {
+      "bg": "assets/device/iphone_13/black/BG.svg",
+      "frame": "assets/device/iphone_13/black/Frame.png"
+    },
+    "beige": {
+      "bg": "assets/device/iphone_13/beige/BG.svg",
+      "frame": "assets/device/iphone_13/beige/Frame.png"
+    }
+  },
+  {
+    "device": "iphone_13mini",
+    "camera": "assets/device/iphone_13mini/black/Camera.png",
+    "black": {
+      "bg": "assets/device/iphone_13mini/black/BG.svg",
+      "frame": "assets/device/iphone_13mini/black/Frame.png"
+    },
+    "beige": {
+      "bg": "assets/device/iphone_13mini/beige/BG.svg",
+      "frame": "assets/device/iphone_13mini/beige/Frame.png"
+    }
+  },
+  {
+    "device": "iphone_13pro",
+    "camera": "assets/device/iphone_13pro/black/Camera.png",
+    "black": {
+      "bg": "assets/device/iphone_13pro/black/BG.svg",
+      "frame": "assets/device/iphone_13pro/black/Frame.png"
+    },
+    "beige": {
+      "bg": "assets/device/iphone_13pro/beige/BG.svg",
+      "frame": "assets/device/iphone_13pro/beige/Frame.png"
+    }
+  },
+  {
+    "device": "iphone_13pro_max",
+    "camera": "assets/device/iphone_13pro_max/black/Camera.png",
+    "black": {
+      "bg": "assets/device/iphone_13pro_max/black/BG.svg",
+      "frame": "assets/device/iphone_13pro_max/black/Frame.png"
+    },
+    "beige": {
+      "bg": "assets/device/iphone_13pro_max/beige/BG.svg",
+      "frame": "assets/device/iphone_13pro_max/beige/Frame.png"
+    }
+  },
+  {
+    "device": "iphone_14",
+    "camera": "assets/device/iphone_14/black/Camera.png",
+    "black": {
+      "bg": "assets/device/iphone_14/black/BG.svg",
+      "frame": "assets/device/iphone_14/black/Frame.png"
+    },
+    "beige": {
+      "bg": "assets/device/iphone_14/beige/BG.svg",
+      "frame": "assets/device/iphone_14/beige/Frame.png"
+    }
+  },
+  {
+    "device": "iphone_14plus",
+    "camera": "assets/device/iphone_14plus/black/Camera.png",
+    "black": {
+      "bg": "assets/device/iphone_14plus/black/BG.svg",
+      "frame": "assets/device/iphone_14plus/black/Frame.png"
+    },
+    "beige": {
+      "bg": "assets/device/iphone_14plus/beige/BG.svg",
+      "frame": "assets/device/iphone_14plus/beige/Frame.png"
+    }
+  },
+  {
+    "device": "iphone_14pro",
+    "camera": "assets/device/iphone_14pro/black/Camera.png",
+    "black": {
+      "bg": "assets/device/iphone_14pro/black/BG.svg",
+      "frame": "assets/device/iphone_14pro/black/Frame.png"
+    },
+    "beige": {
+      "bg": "assets/device/iphone_14pro/beige/BG.svg",
+      "frame": "assets/device/iphone_14pro/beige/Frame.png"
+    }
+  },
+  {
+    "device": "iphone_14pro_max",
+    "camera": "assets/device/iphone_14pro_max/black/Camera.png",
+    "black": {
+      "bg": "assets/device/iphone_14pro_max/black/BG.svg",
+      "frame": "assets/device/iphone_14pro_max/black/Frame.png"
+    },
+    "beige": {
+      "bg": "assets/device/iphone_14pro_max/beige/BG.svg",
+      "frame": "assets/device/iphone_14pro_max/beige/Frame.png"
+    }
+  },
+  {
+    "device": "iphone_15",
+    "camera": "assets/device/iphone_15/black/Camera.png",
+    "black": {
+      "bg": "assets/device/iphone_15/black/BG.svg",
+      "frame": "assets/device/iphone_15/black/Frame.png"
+    },
+    "beige": {
+      "bg": "assets/device/iphone_15/beige/BG.svg",
+      "frame": "assets/device/iphone_15/beige/Frame.png"
+    }
+  },
+  {
+    "device": "iphone_15plus",
+    "camera": "assets/device/iphone_15plus/black/Camera.png",
+    "black": {
+      "bg": "assets/device/iphone_15plus/black/BG.svg",
+      "frame": "assets/device/iphone_15plus/black/Frame.png"
+    },
+    "beige": {
+      "bg": "assets/device/iphone_15plus/beige/BG.svg",
+      "frame": "assets/device/iphone_15plus/beige/Frame.png"
+    }
+  },
+  {
+    "device": "iphone_15pro",
+    "camera": "assets/device/iphone_15pro/black/Camera.png",
+    "black": {
+      "bg": "assets/device/iphone_15pro/black/BG.svg",
+      "frame": "assets/device/iphone_15pro/black/Frame.png"
+    },
+    "beige": {
+      "bg": "assets/device/iphone_15pro/beige/BG.svg",
+      "frame": "assets/device/iphone_15pro/beige/Frame.png"
+    }
+  },
+  {
+    "device": "iphone_15pro_max",
+    "camera": "assets/device/iphone_15pro_max/black/Camera.png",
+    "black": {
+      "bg": "assets/device/iphone_15pro_max/black/BG.svg",
+      "frame": "assets/device/iphone_15pro_max/black/Frame.png"
+    },
+    "beige": {
+      "bg": "assets/device/iphone_15pro_max/beige/BG.svg",
+      "frame": "assets/device/iphone_15pro_max/beige/Frame.png"
+    }
+  },
+  {
+    "device": "iphone_se_2022",
+    "camera": "assets/device/iphone_se_2022/black/Camera.png",
+    "black": {
+      "bg": "assets/device/iphone_se_2022/black/BG.svg",
+      "frame": "assets/device/iphone_se_2022/black/Frame.png"
+    },
+    "beige": {
+      "bg": "assets/device/iphone_se_2022/beige/BG.svg",
+      "frame": "assets/device/iphone_se_2022/beige/Frame.png"
+    }
+  },
+  {
+    "device": "samsung_S21",
+    "camera": "assets/device/samsung_S21/black/Camera.png",
+    "black": {
+      "bg": "assets/device/samsung_S21/black/BG.svg",
+      "frame": "assets/device/samsung_S21/black/Frame.png"
+    },
+    "beige": {
+      "bg": "assets/device/samsung_S21/beige/BG.svg",
+      "frame": "assets/device/samsung_S21/beige/Frame.png"
+    }
+  },
+  {
+    "device": "samsung_S21ultra",
+    "black": {
+      "bg": "assets/device/samsung_S21ultra/black/BG.svg",
+      "frame": "assets/device/samsung_S21ultra/black/Frame.png"
+    },
+    "beige": {
+      "bg": "assets/device/samsung_S21ultra/beige/BG.svg",
+      "frame": "assets/device/samsung_S21ultra/beige/Frame.png"
+    }
+  },
+  {
+    "device": "samsung_S22",
+    "camera": "assets/device/samsung_S22/black/Camera.png",
+    "black": {
+      "bg": "assets/device/samsung_S22/black/BG.svg",
+      "frame": "assets/device/samsung_S22/black/Frame.png"
+    },
+    "beige": {
+      "bg": "assets/device/samsung_S22/beige/BG.svg",
+      "frame": "assets/device/samsung_S22/beige/Frame.png"
+    }
+  },
+  {
+    "device": "samsung_S22ultra",
+    "camera": "assets/device/samsung_S22ultra/black/Camera.png",
+    "black": {
+      "bg": "assets/device/samsung_S22ultra/black/BG.svg",
+      "frame": "assets/device/samsung_S22ultra/black/Frame.png"
+    },
+    "beige": {
+      "bg": "assets/device/samsung_S22ultra/beige/BG.svg",
+      "frame": "assets/device/samsung_S22ultra/beige/Frame.png"
+    }
+  },
+  {
+    "device": "samsung_S23",
+    "camera": "assets/device/samsung_S23/black/Camera.png",
+    "black": {
+      "bg": "assets/device/samsung_S23/black/BG.svg",
+      "frame": "assets/device/samsung_S23/black/Frame.png"
+    },
+    "beige": {
+      "bg": "assets/device/samsung_S23/beige/BG.svg",
+      "frame": "assets/device/samsung_S23/beige/Frame.png"
+    }
+  },
+  {
+    "device": "samsung_S23ultra",
+    "camera": "assets/device/samsung_S23ultra/black/Camera.png",
+    "black": {
+      "bg": "assets/device/samsung_S23ultra/black/BG.svg",
+      "frame": "assets/device/samsung_S23ultra/black/Frame.png"
+    },
+    "beige": {
+      "bg": "assets/device/samsung_S23ultra/beige/BG.svg",
+      "frame": "assets/device/samsung_S23ultra/beige/Frame.png"
+    }
+  },
+  {
+    "device": "xiaomi_12",
+    "camera": "assets/device/xiaomi_12/black/Camera.png",
+    "black": {
+      "bg": "assets/device/xiaomi_12/black/BG.svg",
+      "frame": "assets/device/xiaomi_12/black/Frame.png"
+    },
+    "beige": {
+      "bg": "assets/device/xiaomi_12/beige/BG.svg",
+      "frame": "assets/device/xiaomi_12/beige/Frame.png"
+    }
+  },
+  {
+    "device": "xiaomi_12pro",
+    "camera": "assets/device/xiaomi_12pro/black/Camera.png",
+    "black": {
+      "bg": "assets/device/xiaomi_12pro/black/BG.svg",
+      "frame": "assets/device/xiaomi_12pro/black/Frame.png"
+    },
+    "beige": {
+      "bg": "assets/device/xiaomi_12pro/beige/BG.svg",
+      "frame": "assets/device/xiaomi_12pro/beige/Frame.png"
+    }
+  },
+  {
+    "device": "xiaomi_13",
+    "camera": "assets/device/xiaomi_13/black/Camera.png",
+    "black": {
+      "bg": "assets/device/xiaomi_13/black/BG.svg",
+      "frame": "assets/device/xiaomi_13/black/Frame.png"
+    },
+    "beige": {
+      "bg": "assets/device/xiaomi_13/beige/BG.svg",
+      "frame": "assets/device/xiaomi_13/beige/Frame.png"
+    }
+  },
+  {
+    "device": "xiaomi_13pro",
+    "camera": "assets/device/xiaomi_13pro/black/Camera.png",
+    "black": {
+      "bg": "assets/device/xiaomi_13pro/black/BG.svg",
+      "frame": "assets/device/xiaomi_13pro/black/Frame.png"
+    },
+    "beige": {
+      "bg": "assets/device/xiaomi_13pro/beige/BG.svg",
+      "frame": "assets/device/xiaomi_13pro/beige/Frame.png"
+    }
+  }
+]
