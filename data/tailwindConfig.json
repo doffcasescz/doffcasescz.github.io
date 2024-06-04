@@ -1,0 +1,110 @@
+{
+  "darkMode": [
+    "class"
+  ],
+  "content": [
+    "./app/**/*.tsx",
+    "./components/**/*.{tsx,ts}"
+  ],
+  "theme": {
+    "fontFamily": {
+      "sans": [
+        "Rubik",
+        "ui-sans-serif",
+        "system-ui",
+        "sans-serif",
+        "\"Apple Color Emoji\"",
+        "\"Segoe UI Emoji\"",
+        "\"Segoe UI Symbol\"",
+        "\"Noto Color Emoji\""
+      ]
+    },
+    "extend": {
+      "colors": {
+        "case": {
+          "black": "#0f0f0f",
+          "beige": "#f3f3f3"
+        },
+        "vendor": {
+          "xiaomi": {
+            "0": "#ff6900",
+            "100": "#ff6900",
+            "DEFAULT": "#ff6900"
+          },
+          "samsung": {
+            "0": "#14279B",
+            "100": "#101e75",
+            "DEFAULT": "#14279B"
+          },
+          "apple": {
+            "0": "#000000",
+            "100": "#000000",
+            "DEFAULT": "#000000"
+          },
+          "motorola": {
+            "0": "#282828",
+            "100": "#2c2020",
+            "DEFAULT": "#282828"
+          }
+        },
+        "white": "#ffffff",
+        "black": "#0f0f0f",
+        "gray": {
+          "50": "#f9fafb",
+          "100": "#f3f4f6",
+          "200": "#e5e6e9",
+          "300": "#cfd1d5",
+          "400": "#a7a9ac",
+          "500": "#848486",
+          "600": "#636466",
+          "700": "#4d4e4f",
+          "800": "#333333",
+          "900": "#0f0f0f",
+          "950": "#000000"
+        },
+        "yellow": {
+          "50": "#fffbeb",
+          "100": "#fef3c7",
+          "200": "#ffe992",
+          "300": "#ffdc61",
+          "400": "#ffcd1d",
+          "500": "#fcb900",
+          "600": "#fba421",
+          "700": "#e58009",
+          "800": "#bc4e0d",
+          "900": "#8d3300",
+          "950": "#5e1f00"
+        },
+        "green": {
+          "50": "#e8ffed",
+          "100": "#cffbdb",
+          "200": "#b3f3c1",
+          "300": "#87e6a1",
+          "400": "#40d973",
+          "500": "#00ca43",
+          "600": "#00af31",
+          "700": "#008936",
+          "800": "#006923",
+          "900": "#004921",
+          "950": "#003d1b"
+        }
+      },
+      "screens": {
+        "xs": {
+          "raw": "(max-width: 419px)"
+        },
+        "sm": "420px",
+        "gadget": {
+          "raw": "(max-width: 1023px)"
+        },
+        "md": "1024px",
+        "lg": "1536px",
+        "laptop": {
+          "raw": "(max-width: 1919px)"
+        },
+        "xl": "1920px"
+      }
+    }
+  },
+  "plugins": []
+}
