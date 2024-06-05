@@ -14,7 +14,7 @@
     "type": "git"
   },
   "scripts": {
-    "svgr": "npx @svgr/cli -d src/components/svg assets/**/*.svg",
+    "svgr": "npx @svgr/cli --typescript --no-runtime-config --out-dir svg --filename-case kebab -- dist",
     "dev": "bun run --watch ./src/main.ts",
     "dev:assets": "bun run --watch ./src/assets.ts",
     "gen": "bun run ./src/main.ts",
