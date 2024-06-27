@@ -1,0 +1,345 @@
+[
+  {
+    "key": "iphone_15pro_max",
+    "vendor": "apple",
+    "width": 79,
+    "height": 162,
+    "label": "Apple iPhone 15 Pro Max"
+  },
+  {
+    "key": "iphone_15pro",
+    "vendor": "apple",
+    "width": 73,
+    "height": 149,
+    "label": "Apple iPhone 15 Pro"
+  },
+  {
+    "key": "iphone_15",
+    "vendor": "apple",
+    "width": 73,
+    "height": 149,
+    "label": "Apple iPhone 15"
+  },
+  {
+    "key": "iphone_14pro_max",
+    "vendor": "apple",
+    "width": 80,
+    "height": 162,
+    "label": "Apple iPhone 14 Pro Max"
+  },
+  {
+    "key": "iphone_14pro",
+    "vendor": "apple",
+    "width": 74,
+    "height": 149,
+    "label": "Apple iPhone 14 Pro"
+  },
+  {
+    "key": "iphone_14plus",
+    "vendor": "apple",
+    "width": 80,
+    "height": 162,
+    "label": "Apple iPhone 14 Plus"
+  },
+  {
+    "key": "iphone_14",
+    "vendor": "apple",
+    "width": 74,
+    "height": 149,
+    "label": "Apple iPhone 14"
+  },
+  {
+    "key": "iphone_se_2022",
+    "vendor": "apple",
+    "width": 70,
+    "height": 140,
+    "label": "Apple iPhone SE 2022 (3 generace)"
+  },
+  {
+    "key": "iphone_13pro_max",
+    "vendor": "apple",
+    "width": 81,
+    "height": 163,
+    "label": "Apple iPhone 13 Pro Max"
+  },
+  {
+    "key": "iphone_13pro",
+    "vendor": "apple",
+    "width": 74,
+    "height": 149,
+    "label": "Apple iPhone 13 Pro"
+  },
+  {
+    "key": "iphone_13",
+    "vendor": "apple",
+    "width": 74,
+    "height": 149,
+    "label": "Apple iPhone 13"
+  },
+  {
+    "key": "iphone_13mini",
+    "vendor": "apple",
+    "width": 67,
+    "height": 133,
+    "label": "Apple iPhone 13 mini"
+  },
+  {
+    "key": "iphone_12pro_max",
+    "vendor": "apple",
+    "width": 80,
+    "height": 162,
+    "label": "Apple iPhone 12 Pro Max"
+  },
+  {
+    "key": "iphone_12pro",
+    "vendor": "apple",
+    "width": 74,
+    "height": 149,
+    "label": "Apple iPhone 12 Pro"
+  },
+  {
+    "key": "iphone_12",
+    "vendor": "apple",
+    "width": 74,
+    "height": 148,
+    "label": "Apple iPhone 12"
+  },
+  {
+    "key": "iphone_12mini",
+    "vendor": "apple",
+    "width": 67,
+    "height": 133,
+    "label": "Apple iPhone 12 mini"
+  },
+  {
+    "key": "iphone_se_2020",
+    "vendor": "apple",
+    "width": 70,
+    "height": 140,
+    "label": "Apple iPhone SE 2020 (2 generace)"
+  },
+  {
+    "key": "iphone_11pro_max",
+    "vendor": "apple",
+    "width": 80,
+    "height": 160,
+    "label": "Apple iPhone 11 Pro Max"
+  },
+  {
+    "key": "iphone_11pro",
+    "vendor": "apple",
+    "width": 74,
+    "height": 145,
+    "label": "Apple iPhone 11 Pro"
+  },
+  {
+    "key": "iphone_11",
+    "vendor": "apple",
+    "width": 77,
+    "height": 152,
+    "label": "Apple iPhone 11"
+  },
+  {
+    "key": "iphone_xr",
+    "vendor": "apple",
+    "width": 78,
+    "height": 153,
+    "label": "Apple iPhone XR"
+  },
+  {
+    "key": "iphone_xs_max",
+    "vendor": "apple",
+    "width": 80,
+    "height": 159,
+    "label": "Apple iPhone XS Max"
+  },
+  {
+    "key": "iphone_x",
+    "vendor": "apple",
+    "width": 73,
+    "height": 145,
+    "label": "Apple iPhone X"
+  },
+  {
+    "key": "xiaomi_13pro",
+    "vendor": "xiaomi",
+    "width": 75,
+    "height": 164,
+    "label": "Xiaomi 13 Pro"
+  },
+  {
+    "key": "xiaomi_13",
+    "vendor": "xiaomi",
+    "width": 73,
+    "height": 155,
+    "label": "Xiaomi 13"
+  },
+  {
+    "key": "xiaomi_12pro_max",
+    "vendor": "xiaomi",
+    "width": 74,
+    "height": 155,
+    "label": "Xiaomi 12 Pro Max"
+  },
+  {
+    "key": "xiaomi_12pro",
+    "vendor": "xiaomi",
+    "width": 77,
+    "height": 165,
+    "label": "Xiaomi 12 Pro"
+  },
+  {
+    "key": "xiaomi_12",
+    "vendor": "xiaomi",
+    "width": 72,
+    "height": 155,
+    "label": "Xiaomi 12"
+  },
+  {
+    "key": "xiaomi_11t",
+    "vendor": "xiaomi",
+    "width": 78,
+    "height": 165,
+    "label": "Xiaomi 11 T"
+  },
+  {
+    "key": "xiaomi_11",
+    "vendor": "xiaomi",
+    "width": 78,
+    "height": 165,
+    "label": "Xiaomi 11"
+  },
+  {
+    "key": "xiaomi_redmi_note_12s",
+    "vendor": "xiaomi",
+    "width": 76,
+    "height": 162,
+    "label": "Xiaomi Redmi Note 12 S"
+  },
+  {
+    "key": "xiaomi_redmi_note_12",
+    "vendor": "xiaomi",
+    "width": 78,
+    "height": 164,
+    "label": "Xiaomi Redmi Note 12"
+  },
+  {
+    "key": "xiaomi_redmi_12",
+    "vendor": "xiaomi",
+    "width": 78,
+    "height": 170,
+    "label": "Xiaomi Redmi 12"
+  },
+  {
+    "key": "xiaomi_redmi_10",
+    "vendor": "xiaomi",
+    "width": 78,
+    "height": 163,
+    "label": "Xiaomi Redmi 10"
+  },
+  {
+    "key": "samsung_s23ultra",
+    "vendor": "samsung",
+    "width": 80,
+    "height": 165,
+    "label": "Samsung Galaxy S 23 Ultra"
+  },
+  {
+    "key": "samsung_s23",
+    "vendor": "samsung",
+    "width": 73,
+    "height": 147,
+    "label": "Samsung Galaxy S 23"
+  },
+  {
+    "key": "samsung_s22ultra",
+    "vendor": "samsung",
+    "width": 80,
+    "height": 165,
+    "label": "Samsung Galaxy S 22 Ultra"
+  },
+  {
+    "key": "samsung_s21ultra",
+    "vendor": "samsung",
+    "width": 77,
+    "height": 165,
+    "label": "Samsung Galaxy S 21 Ultra"
+  },
+  {
+    "key": "samsung_s21",
+    "vendor": "samsung",
+    "width": 73,
+    "height": 153,
+    "label": "Samsung Galaxy S 21"
+  },
+  {
+    "key": "samsung_s20plus",
+    "vendor": "samsung",
+    "width": 75,
+    "height": 162,
+    "label": "Samsung Galaxy S 20 Plus"
+  },
+  {
+    "key": "samsung_s20",
+    "vendor": "samsung",
+    "width": 72,
+    "height": 153,
+    "label": "Samsung Galaxy S 20"
+  },
+  {
+    "key": "samsung_a53",
+    "vendor": "samsung",
+    "width": 77,
+    "height": 160,
+    "label": "Samsung A 53"
+  },
+  {
+    "key": "samsung_a52_s",
+    "vendor": "samsung",
+    "width": 78,
+    "height": 162,
+    "label": "Samsung A 52 S"
+  },
+  {
+    "key": "samsung_a52",
+    "vendor": "samsung",
+    "width": 78,
+    "height": 162,
+    "label": "Samsung A 52"
+  },
+  {
+    "key": "samsung_a34",
+    "vendor": "samsung",
+    "width": 81,
+    "height": 163,
+    "label": "Samsung A 34"
+  },
+  {
+    "key": "samsung_a33",
+    "vendor": "samsung",
+    "width": 77,
+    "height": 162,
+    "label": "Samsung A 33"
+  },
+  {
+    "key": "samsung_fe20",
+    "vendor": "samsung",
+    "width": 78,
+    "height": 162,
+    "label": "Samsung FE 20"
+  },
+  {
+    "key": "motorola_edge20",
+    "vendor": "motorola",
+    "width": 78,
+    "height": 162,
+    "label": "Motorola Edge 20"
+  },
+  {
+    "key": "motorola_edge40",
+    "vendor": "motorola",
+    "width": 75,
+    "height": 160,
+    "label": "Motorola Edge 40"
+  }
+]
