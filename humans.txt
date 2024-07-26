@@ -1,6 +1,6 @@
 /* TEAM */
 Name: Andy Iv. (@digitalandyeu)
-Role: Lead Developer & Founder
+Role: Frontend Developer
 Author: https://github.com/andriilive
 Site: https://digitalandy.eu
 GitHub: https://github.com/digitalandyeu
@@ -10,10 +10,11 @@ Location: Prague, Czech Republic
 
 
 /* THANKS */
-Name: Nina Pirkl
-Role: Content administration
-LinkedIn: https://www.linkedin.com/in/nina-pirkl-547361a3
+Name: Philipp Egorov
+Role: UX/UI Designer
+LinkedIn: http://linkedin.com/in/philavr
+Dribbble: http://dribbble.com/philavr
 
-Name: Igor Tristan
-Role: Marketing Strategist
-LinkedIn: https://www.linkedin.com/in/igor-trystan-7225bb161
+Name: Mikhail Emchenko
+Role: Frontend Developer
+GitHub: http://github.com/memchenko
